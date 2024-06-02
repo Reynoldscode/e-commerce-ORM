@@ -21,6 +21,12 @@ When you test API POST, PUT, and DELETE routes in Insomnia Core then you are abl
 ## Git URL 
 github url: https://github.com/Reynoldscode/e-commerce-ORM
 
+posman testing: ![alt text](public/orm.gif)
+
+screen schot: ![alt text](<public/Screenshot (2062).png>)
+              ![alt text](<public/Screenshot (2063).png>)
+              ![alt text](<public/Screenshot (2064).png>)
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
