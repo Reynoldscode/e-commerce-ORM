@@ -13,9 +13,9 @@ When you enter schema and seed commands then development database is created and
 
 When you enter the command to invoke the application then the server is started and the Sequelize models are synced to the PostgreSQL database
 
-WHEN you open API GET routes in Insomnia Core for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON
+WHEN you open API GET routes in postman  for categories, products, or tags then the data for each of these routes is displayed in a formatted JSON
 
-When you test API POST, PUT, and DELETE routes in Insomnia Core then you are able to successfully create, update, and delete data in my database
+When you test API POST, PUT, and DELETE routes in postman then you are able to successfully create, update, and delete data in my database
 
 
 ## Git URL 
